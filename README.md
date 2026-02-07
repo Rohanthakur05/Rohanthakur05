@@ -53,7 +53,6 @@
 ![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
 
 ---
----
 
 ## 📚 Currently Learning
 
@@ -68,14 +67,14 @@
 ### 🔹 Crypto Trading Platform
 Real-time cryptocurrency trading simulation with authentication, live price updates and portfolio tracking.  
 **Tech:** Node.js, Express, MongoDB, WebSockets  
-🔗 https://github.com/Rohanthakur05/crypto-project
+🔗 [https://github.com/Rohanthakur05/crypto-project](https://github.com/Rohanthakur05/ChainXchange.git)
 
 ---
 
 ### 🔹 Women Safety IoT Device
 Smart wearable system providing GPS tracking, emergency alerts and mobile notifications.  
 **Tech:** ESP8266, GPS, Blynk  
-🔗 https://github.com/Rohanthakur05/women-safety-device
+
 
 
 ## 🤝 Connect With Me
