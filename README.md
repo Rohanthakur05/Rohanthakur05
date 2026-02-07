@@ -1,7 +1,7 @@
 ![Banner](banner.png)
 
 <h1 align="center">Hi 👋, I'm Rohan Thakur</h1>
-<h3 align="center">Full Stack Developer | Backend Focus</h3>
+<h3 align="center">Full Stack Developer | JAVA | AWS | Salesforce | ServiceNow</h3>
 
 ---
 
