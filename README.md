@@ -3,7 +3,12 @@
 <h1 align="center">Hi 👋, I'm Rohan Thakur</h1>
 <h3 align="center">Full Stack Developer | JAVA | AWS | Salesforce | ServiceNow</h3>
 <p align="center">Building scalable backend systems & real-world products.</p>
-[![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge)](Rohan_Thakur_Resume.pdf)
+<p align="center">
+  <a href="Rohan_Thakur_Resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge"/>
+  </a>
+</p>
+
 
 
 
