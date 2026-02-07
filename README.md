@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Rohan Thakur</h1>
 <h3 align="center">Full Stack Developer | JAVA | AWS | Salesforce | ServiceNow</h3>
+<p align="center">Building scalable backend systems & real-world products.</p>
 
 ---
 
@@ -52,6 +53,30 @@
 ![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+---
+
+## 📚 Currently Learning
+
+- Advanced System Design  
+- Salesforce Administration & Automation  
+- Cloud architecture & scalable deployments
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Crypto Trading Platform
+Real-time cryptocurrency trading simulation with authentication, live price updates and portfolio tracking.  
+**Tech:** Node.js, Express, MongoDB, WebSockets  
+🔗 https://github.com/Rohanthakur05/crypto-project
+
+---
+
+### 🔹 Women Safety IoT Device
+Smart wearable system providing GPS tracking, emergency alerts and mobile notifications.  
+**Tech:** ESP8266, GPS, Blynk  
+🔗 https://github.com/Rohanthakur05/women-safety-device
+
 
 ## 🤝 Connect With Me
 
