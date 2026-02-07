@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohan Thakur</h1>
-<h3 align="center">Full Stack Developer | Backend Focus</h3>
+<h3 align="center">Full Stack Developer | Backend Focus | Salesforce | ServiceNow</h3>
 
 ---
 
@@ -9,7 +9,7 @@
 💻 Full Stack Developer (Backend Focus)  
 🧠 Scalable systems. Clean code. Real-world impact.
 
-- ⚙️ MERN | Spring Boot | Salesforce  
+- ⚙️ MERN | Spring Boot | Salesforce | ServiceNow  
 - 🔐 REST APIs • JWT • Secure hashing  
 - ☁️ AWS & deployments  
 - 🧩 DSA • OOPS • DBMS • System Design  
@@ -36,18 +36,10 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud / Platforms
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-81B441?style=for-the-badge)
+
+### 🛠️ Tools
 ![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohanthakur05&show_icons=true&theme=radical)
-
----
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rohanthakur05&theme=radical)
